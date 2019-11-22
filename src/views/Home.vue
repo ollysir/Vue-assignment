@@ -4,7 +4,7 @@
     <!-- ################################################################################################ -->
     <article>
       <h2 class="heading">Welcome to Wonderland the home of activites </h2>
-      <p>We give you opportunites to explore your talents and provide you with extra curricular activities.</p>
+      <p>We give everyone of our customers to explore your talents and provide you with extra curricular activities.</p>
       <footer>
         <router-link class="btn" to="/register" role="button">Sign up</router-link>
         </footer>
