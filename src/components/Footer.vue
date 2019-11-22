@@ -43,7 +43,7 @@
     </div>
     <div class="one_third">
       <h6 class="heading">Ugochukwu Usifoh</h6>
-      <p class="nospace btmspace-30">We have state of the art facilities and equipments to make you a nerd.</p>
+      <p class="nospace btmspace-30">We have state of the art facilities and equipments to give you a wonderful experience.</p>
       <form method="post" action="#">
         <fieldset>
           <legend>Newsletter:</legend>
