@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "title": "Social values for Beginners",
+    "description": "Will you like to increase your social values and develop your social skills?",
+    "price": 30,
+    "area": "agriculture",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Fred",
+      "lastname": "Rodrigues"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Wayne Rooney",
+        "feedback": "Wonderful experience,i will definitely be back"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "activity",
+    "title": "Using legos for Artificial Intelligence",
+    "description": "Preparing myself to become a building contractor",
+    "price": 50,
+    "area": "arts",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "author": {
+      "firstname": "Wayne",
+      "lastname": "Rooney"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Wayne Rooney",
+        "feedback": "Awesome course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Fred Rodrigues",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Building blocks with shapes for AI",
+    "description": "Will i improve on my building skills?",
+    "price": 10,
+    "area": "health",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "John",
+      "lastname": "Paul"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Wayne Rooney",
+        "feedback": "Awesome course I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Fred Rodrigues",
+        "feedback": "Drew me closer to technology"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Implementing personal hygiene ",
+    "description": "will you like to be a healthier person?",
+    "price": 50,
+    "area": "health",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "James",
+      "lastname": "Okoli"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Wayne Rooney",
+        "feedback": "Good for the mind and body"
+      },
+      {
+        "id": 2,
+        "name": "Fred Rodrigues",
+        "feedback": "It drew me closer to Information Technology"
+      }
+    ]
+  }
+]
