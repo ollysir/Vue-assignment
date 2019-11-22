@@ -29,7 +29,7 @@
           <article>
             <h2 class="nospace font-x1"><a href="#">Rock Climbing</a></h2>
             <time class="font-xs block btmspace-10" datetime="2019-12-06">Friday, 6<sup>th</sup> December 2019</time>
-            <p class="nospace">Come and join us as we climb rocks and increase your ability to research and excavate [&hellip;]</p>
+            <p class="nospace">Come and join us as we climb rocks and increase your ability to research and Explore [&hellip;]</p>
           </article>
         </li>
         <li>
