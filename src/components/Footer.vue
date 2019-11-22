@@ -34,7 +34,7 @@
         </li>
         <li>
           <article>
-            <h2 class="nospace font-x1"><a href="#">Artificial Intelligence</a></h2>
+            <h2 class="nospace font-x1"><a href="#">Artificial Intelligence for beginners</a></h2>
             <time class="font-xs block btmspace-10" datetime="2045-04-05">Thursday, 5<sup>th</sup> December 2019</time>
             <p class="nospace">Come and join us as we climb rocks and excavate the hills as well as providing hiking sports [&hellip;]</p>
           </article>
