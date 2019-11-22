@@ -49,7 +49,7 @@
           <!-- copyright -->
           <div class="colorlibcopy-agile">
             <p>
-              © 2018 Colorlib Register Form. All rights reserved | Design by
+              © 2019 Wonderland Register Form. All rights reserved | Design by
               <a href="https://colorlib.com/" target="_blank">Colorlib</a>
             </p>
           </div>
