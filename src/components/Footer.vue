@@ -10,7 +10,7 @@
           Camellia &amp; 24, Town, PBK1132
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +356(123) 456 7890</li>
+        <li><i class="fa fa-phone"></i> +356(77) 456 7890</li>
         <li><i class="fa fa-envelope-o"></i> info@wonderland.com</li>
       </ul>
       <ul class="faico clear">
